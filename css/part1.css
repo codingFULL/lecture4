@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+}
+h1.headerClass1 {
+  color: rgb(82, 235, 11);
+}
+h1#headerId1 {
+  color: blue;
+}
+.classG1 {
+  color: fuchsia;
+}
+
+.classG2 {
+  color: rgb(255, 238, 0);
+}
+
+.classG2#h1Id {
+  color: rgb(255, 145, 0);
+}
